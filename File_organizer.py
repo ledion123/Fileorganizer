@@ -2,7 +2,7 @@ import os
 import shutil
 
 # path must end with a slash
-path = "C:/Users/leo/Desktop/" 
+path = "C:/#/#/#/" 
 
 file_names = os.listdir(path)
 
